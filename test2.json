@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        57,
+        10
+      ],
+	"tensorPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/moths_paper2.tsv",
+	"metadataPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/labels2.tsv",	
+      }
+  ]
+}
