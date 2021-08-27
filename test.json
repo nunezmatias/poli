@@ -3,8 +3,8 @@
       {
         "tensorName": "moths",
         "tensorShape": [
-          10,
-          57
+          57,
+          10
         ],
         "tensorPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/moths_paper.tsv",
         "metadataPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/labels.tsv",
