@@ -6,8 +6,8 @@
           10,
           57
         ],
-        "tensorPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/moths_paper.csv",
-        "metadataPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/labels.csv",
+        "tensorPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/moths_paper.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/labels.tsv",
         
       }
     ]
