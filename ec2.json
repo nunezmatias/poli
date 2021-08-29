@@ -8,8 +8,8 @@
       ],
 	"tensorPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/mothEC.tsv",
 	"metadataPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/mothEC_meta.tsv",
-	"bookmarksPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/PCA_normilized.txt"
-	"bookmarksPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/PCA.txt"
+	"bookmarksPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/PCA_normilized.txt",
+	"bookmarksPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/PCA.txt",
 	"bookmarksPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/UMAP.txt"
       }
   ]
