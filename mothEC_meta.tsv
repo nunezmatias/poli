@@ -1,0 +1,34 @@
+moth number	Family	Subfamily	Tribe	Genus	species	moth#	Family code	Subfamily code	Genus code	Species code	Location code	locale
+1	Dalceridae	Acraginae		Acraga	goes?	38579 38572 38535 38779 38533	7	1	51	91	10	EC
+2	Dalceridae	Acraginae		Acraga	moorei	38440 38470 38471	7	1	51	90	10	EC
+4	Erebidae	Arctiinae	Arctiini	Bertholdia	bilineola	38549 38709 38721 38720	1	2	61	117	10	EC
+5	Erebidae	Arctiinae	Arctiini	Bertholdia	specularis	38719 38769 38770 38771	1	2	61	118	10	EC
+6	Erebidae	Arctiinae	Arctiini	Cratoplastis	diluta	38530 38531 38717	1	2	7	108	10	EC
+8	Erebidae	Arctiinae	Arctiini	Eucereon	formosum dognini	38554 38865	1	2	24	122	10	EC
+10	Erebidae	Arctiinae	Arctiini	Halysidota	pectenella	38519 38521 38537?	1	2	57	107	10	EC
+13	Erebidae	Arctiinae	Arctiini	Idalus	veneta	38540 38544 38545 38546 38705 38712 38729 38736 38528	1	2	23	110	10	EC
+15	Erebidae	Arctiinae	Arctiini	Melese	chozeba	38506 38508 38509 38517	1	2	19	102	10	EC
+18	Erebidae	Arctiinae	Arctiini	Melese	peruviana	38785 38786 38787	1	2	19	103	10	EC
+19	Erebidae	Arctiinae	Arctiini	Melese	sordida	38780 38781 38783 38784	1	2	19	104	10	EC
+21	Erebidae	Arctiinae	Arctiini	Ormetica	ameoides	38793 38706 38731 38733	1	2	27	119	10	EC
+23	Erebidae	Arctiinae	Arctiini	Psychophasma	erosa	38542 38703 38743 38746	1	2	65	127	10	EC
+25	Erebidae	Arctiinae	Arctiini	Robinsonia	catasticta	38831 38548 38830	1	2	25	115	10	EC
+26	Erebidae	Arctiinae	Arctiini	Robinsonia	multimaculata	38550 38829 38828	1	2	25	116	10	EC
+27	Erebidae	Arctiinae	Arctiini	Scaptius	ditissima	37800 38723 38801	1	2	63	125	10	EC
+29	Erebidae	Arctiinae	Lithosiini	Agylla	nitidalis	38744 38714 38707 38543	1	2	59	111	10	EC
+30	Erebidae	Arctiinae	Lithosiini	Agylla	nr. argentifera	38803 38718 38802 38805	1	2	59	113	10	EC
+31	Erebidae	Arctiinae	Lithosiini	Agylla	sp. 5	38561 38562 38563 38564 38565 PO84 38799	1	2	59	112	10	EC
+32	Erebidae	Calpinae	Calpini	Gonodonta	bidens_EC	38750 38476	1	3	9	19	10	EC
+34	Erebidae	Calpinae	Calpini	Gonodonta	correcta	38859 38827 38515 38514	1	3	9	93	10	EC
+35	Erebidae	Calpinae	Calpini	Gonodonta	pseudamianta	38874 38860 38875	1	3	9	96	10	EC
+37	Erebidae	Calpinae	Calpini	Gonodonta	sinaldus	38861 38776 38458 38479	1	3	9	94	10	EC
+38	Erebidae	Calpinae	Calpini	Gonodonta	syrna_EC	38826 38862	1	3	9	23	10	EC
+40	Erebidae	Hypocalinae		Goniapteryx	servia	38477 38724	1	6	64	126	10	EC
+41	Geometridae	Ennominae	Baptini	Lomographa	sp.	38810 38811	2	4	69	131	10	EC
+42	Geometridae	Ennominae	Nephodiini	Nephodia	sp. 1	38429 38422 38788	2	4	52	92	10	EC
+43	Geometridae	Ennominae	Nephodiini	Nephodia	sp. 71	38840 38841 38842 38760 38761 385276	2	4	52	135	10	EC
+44	Geometridae	Ennominae	Ourapterygini	Leucula	nr. sp. 6	38790 38806	2	4	68	130	10	EC
+45	Geometridae	Ennominae	Ourapterygini	Neuromelia	sericea	38789 38791	2	4	67	129	10	EC
+46	Geometridae	Ennominae		Pantherodes	pardalaria	38767 38768 38745	2	4	66	128	10	EC
+51	Sphingidae	Macroglossinae	Macroglossini	Xylophanes	chiron_EC	38812 33813 38818 38854	5	7	15	31	10	EC
+57	Sphingidae	Macroglossinae	Macroglossini	Xylophanes	titana	38822 38855	5	7	15	101	10	EC
