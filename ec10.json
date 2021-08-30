@@ -1,0 +1,24 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Moths",
+      "tensorShape": [
+        33,
+        10
+      ],
+	"tensorPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/mothEC.tsv",
+	"metadataPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/mothEC_meta.tsv",
+	"bookmarksPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/UMAPneighb5.txt",
+	"bookmarksPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/PCA.txt",
+	"bookmarksPath": "https://raw.githubusercontent.com/nunezmatias/poli/main/PCA_normalized.txt",
+        "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/nunezmatias/poli/main/sprite3.png",
+        "singleImageDim": [
+          150,
+          100
+                           ]
+                   }
+	
+      }
+  ]
+}
